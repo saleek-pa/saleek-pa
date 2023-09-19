@@ -29,12 +29,6 @@
 
 ###
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saleek-pa&" alt="streak status"   />
-</div>
-
-###
-
 <h3 align="center">Connect with me</h3>
 
 ###
